@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
+
+### Day 3: January 06, Tuesday
+
+**Today's Progress**: Advanced on my Portfolio challenge on FreeCodeCamp.
+
+**Thoughts** I did not code yesterday, was sick and went to bed early. I spent 2 hours coding today to try to compensate. I'm still enjoying it though ^^.
+
+**Link(s) to work**
+1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
