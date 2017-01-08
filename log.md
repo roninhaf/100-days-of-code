@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
+
+### Day 4: January 07, Tuesday
+
+**Today's Progress**: Advanced on my Portfolio challenge on FreeCodeCamp.
+
+**Thoughts** Learning everyday, spent time with bootstrap grid trying to make everything look good and centered until I realised I needed the container class to make it all easier ^^.
+
+**Link(s) to work**
+1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
