@@ -35,3 +35,13 @@
 
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
+
+### Day 5: January 08, Tuesday
+
+**Today's Progress**: Advanced on my Portfolio challenge on FreeCodeCamp.
+
+**Thoughts** Found how to smooth scroll from a menu button to an anchor anywhere on the page. Used JQuery and an algorithm from w3schools.com eventhough I don't fully understand it. But works fine.
+
+**Link(s) to work**
+1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
+
