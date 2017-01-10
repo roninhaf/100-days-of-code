@@ -45,3 +45,12 @@
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
 
+### Day 6: January 09, Tuesday
+
+**Today's Progress**: Tried different menus on my Portfolio challenge on FreeCodeCamp.
+
+**Thoughts** Tried different ways for my menu, horizontal, vertical, side, using CSS, Bootstrap. W3CSS looked nice but I'm not sure I want to dig into this now and prefer to stay with regular CSS for now.
+
+**Link(s) to work**
+1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
+
