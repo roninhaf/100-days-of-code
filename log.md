@@ -54,3 +54,12 @@
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
 
+### Day 7: January 10, Tuesday
+
+**Today's Progress**: Worked on the menu on my Portfolio challenge on FreeCodeCamp.
+
+**Thoughts** I think I found a nice way using a transparent top fixed navbar for the portfolio challenge. Still have to fix one or two things though.
+
+**Link(s) to work**
+1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
+
