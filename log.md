@@ -63,3 +63,13 @@
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
 
+### Day 8: January 11, Tuesday
+
+**Today's Progress**: Almost finished my Portfolio challenge on FreeCodeCamp.
+
+**Thoughts** Feeling good advancing on it.
+
+**Link(s) to work**
+1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
+
+
