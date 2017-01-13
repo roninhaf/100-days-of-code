@@ -9,7 +9,7 @@
 **Link(s) to work**
 1. [Tribute page](http://codepen.io/roninhaf/pen/qqygJm)
 
-### Day 2: January 04, Tuesday
+### Day 2: January 04, Wednesday
 
 **Today's Progress**: I've started my Portfolio challenge on FreeCodeCamp.
 
@@ -18,7 +18,7 @@
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
 
-### Day 3: January 06, Tuesday
+### Day 3: January 06, Friday
 
 **Today's Progress**: Advanced on my Portfolio challenge on FreeCodeCamp.
 
@@ -27,7 +27,7 @@
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
 
-### Day 4: January 07, Tuesday
+### Day 4: January 07, Saturday
 
 **Today's Progress**: Advanced on my Portfolio challenge on FreeCodeCamp.
 
@@ -36,7 +36,7 @@
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
 
-### Day 5: January 08, Tuesday
+### Day 5: January 08, Sunday
 
 **Today's Progress**: Advanced on my Portfolio challenge on FreeCodeCamp.
 
@@ -45,7 +45,7 @@
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
 
-### Day 6: January 09, Tuesday
+### Day 6: January 09, Monday
 
 **Today's Progress**: Tried different menus on my Portfolio challenge on FreeCodeCamp.
 
@@ -63,7 +63,7 @@
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
 
-### Day 8: January 11, Tuesday
+### Day 8: January 11, Wednesday
 
 **Today's Progress**: Almost finished my Portfolio challenge on FreeCodeCamp.
 
@@ -71,5 +71,14 @@
 
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/pen/OWPRbG)
+
+### Day 9: January 12, Thursday
+
+**Today's Progress**: Finished my Portfolio challenge on FreeCodeCamp.
+
+**Thoughts** Finished the basic FCC Front-End projects. Started the Javascript tutorials.
+
+**Link(s) to work**
+1. [Portfolio page](http://codepen.io/roninhaf/full/OWPRbG/)
 
 
