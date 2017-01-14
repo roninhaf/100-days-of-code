@@ -81,4 +81,13 @@
 **Link(s) to work**
 1. [Portfolio page](http://codepen.io/roninhaf/full/OWPRbG/)
 
+### Day 10: January 13, Friday
+
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Feels good to actually coding with a real language. Reminds me a bit of what I learned 15 years ago with C.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
+
 
