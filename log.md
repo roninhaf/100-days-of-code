@@ -90,7 +90,7 @@
 **Link(s) to work**
 1. None for now as I'm doing the exercices from FCC.
 
-### Day 10: January 14, Saturday
+### Day 11: January 14, Saturday
 
 **Today's Progress**: Learning Javascript with small coding exercices.
 
@@ -99,7 +99,7 @@
 **Link(s) to work**
 1. None for now as I'm doing the exercices from FCC.
 
-### Day 10: January 15, Sunday
+### Day 12: January 15, Sunday
 
 **Today's Progress**: Learning Javascript with small coding exercices.
 
