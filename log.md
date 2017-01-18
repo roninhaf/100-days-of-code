@@ -108,4 +108,20 @@
 **Link(s) to work**
 1. None for now as I'm doing the exercices from FCC.
 
+### Day 13: January 16, Monday
 
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Working on if else statements.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
+
+### Day 14: January 17, Tuesday
+
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Working on if and switch statements.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
