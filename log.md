@@ -152,3 +152,12 @@
 
 **Link(s) to work**
 1. None for now as I'm doing the exercices from FCC.
+
+### Day 18: January 21, Saturday
+
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Struggled less today, It's nice to see even small improvements.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
