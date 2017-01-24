@@ -161,3 +161,21 @@
 
 **Link(s) to work**
 1. None for now as I'm doing the exercices from FCC.
+
+### Day 19: January 22, Sunday
+
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Worked on switch statements.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
+
+### Day 20: January 23, Monday
+
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Worked on lookup tables.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
