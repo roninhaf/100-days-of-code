@@ -179,3 +179,39 @@
 
 **Link(s) to work**
 1. None for now as I'm doing the exercices from FCC.
+
+### Day 21: January 24, Tuesday
+
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Worked on lookup tables.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
+
+### Day 22: January 25, Wednesday
+
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Worked on lookup tables.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
+
+### Day 23: January 26, Thursday
+
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Worked on lookup tables.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
+
+### Day 24: January 27, Friday
+
+**Today's Progress**: Learning Javascript with small coding exercices.
+
+**Thoughts** Worked on lookup tables again. I know I've been slow on this but had very little time so far because of work and family.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
