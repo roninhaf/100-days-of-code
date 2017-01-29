@@ -215,3 +215,12 @@
 
 **Link(s) to work**
 1. None for now as I'm doing the exercices from FCC.
+
+### Day 25: January 28, Saturday
+
+**Today's Progress**: Learning Javascript with small coding exercices. Manipulated complex objects in arrays.
+
+**Thoughts** Not always easy to get the syntax right even though the logic is already there.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
