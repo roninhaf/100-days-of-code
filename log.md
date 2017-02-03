@@ -224,3 +224,12 @@
 
 **Link(s) to work**
 1. None for now as I'm doing the exercices from FCC.
+
+### Day 26: February 2, Thursday
+
+**Today's Progress**: Learning Javascript with small coding exercices. Manipulated complex objects in arrays.
+
+**Thoughts** I missed 4 days in a row of coding. Had very few free time between work, family and a crashed hard drive. But I'm back and will hopefully go to the end of this challenged.
+
+**Link(s) to work**
+1. None for now as I'm doing the exercices from FCC.
